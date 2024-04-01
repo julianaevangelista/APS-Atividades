@@ -19,6 +19,7 @@ A incerteza é uma realidade inevitável em qualquer projeto de desenvolvimento 
 
 **Questões:**
 1. Como a falta de uma liderança eficaz pode impactar negativamente o andamento de um projeto de desenvolvimento de sistemas?
+R:
 2. Quais são os principais recursos necessários para o desenvolvimento de um sistema de alta qualidade e como sua falta pode afetar o projeto?
 3. Como a definição de um cronograma realista pode contribuir para o sucesso de um projeto de desenvolvimento de sistemas?
 4. Por que é importante manter uma comunicação clara e regular com o cliente ao longo do processo de desenvolvimento?
