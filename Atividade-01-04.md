@@ -19,8 +19,23 @@ A incerteza é uma realidade inevitável em qualquer projeto de desenvolvimento 
 
 **Questões:**
 1. Como a falta de uma liderança eficaz pode impactar negativamente o andamento de um projeto de desenvolvimento de sistemas?
-R:
 2. Quais são os principais recursos necessários para o desenvolvimento de um sistema de alta qualidade e como sua falta pode afetar o projeto?
 3. Como a definição de um cronograma realista pode contribuir para o sucesso de um projeto de desenvolvimento de sistemas?
 4. Por que é importante manter uma comunicação clara e regular com o cliente ao longo do processo de desenvolvimento?
 5. Quais são algumas estratégias eficazes para lidar com a incerteza em projetos de desenvolvimento de sistemas?
+
+
+RESPOSTAS
+1- Uma liderança ineficaz pode prejudicar um projeto de desenvolvimento de sistemas ao deixar a equipe sem direção clara e coordenação, resultando em atrasos, conflitos e baixa qualidade no trabalho entregue. Além disso, uma liderança fraca pode falhar em resolver efetivamente os problemas que surgem durante o desenvolvimento, levando a soluções inadequadas.
+
+2-Recursos cruciais para um sistema de qualidade incluem uma equipe experiente, tecnologias adequadas, ambiente de desenvolvimento apropriado e financiamento suficiente. A falta desses recursos pode causar atrasos, baixa qualidade e custos extras no projeto.
+
+3-Um cronograma realista é essencial para alocar recursos adequadamente, prever prazos e gerenciar o tempo de forma eficaz, evitando atrasos significativos e promovendo a coordenação entre equipes.
+
+4-A comunicação clara e regular com o cliente ao longo do desenvolvimento ajuda a garantir que suas expectativas estejam alinhadas com o progresso do projeto, permitindo feedback oportuno e ajustes nas especificações, além de construir confiança entre as partes envolvidas.
+
+Estratégias como abordagens ágeis, análise de riscos e planos de contingência ajudam a lidar com a incerteza, permitindo maior flexibilidade e resposta rápida a mudanças nas circunstâncias do projeto.
+
+
+
+
